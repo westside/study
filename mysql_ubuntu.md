@@ -18,8 +18,8 @@ flush privileges;
 
 * user 추가 (// database(*).table(*)) https://www.digitalocean.com/community/tutorials/how-to-create-a-new-user-and-grant-permissions-in-mysql
 ```
-CREATE USER 'bhaptics'@'%' IDENTIFIED BY 'bhaptics';
-GRANT ALL PRIVILEGES ON * . * TO 'bhaptics'@'%';    
+CREATE USER 'user'@'%' IDENTIFIED BY 'bhaptics';
+GRANT ALL PRIVILEGES ON * . * TO 'user'@'%';    
 FLUSH PRIVILEGES;
 ```
 
