@@ -1,6 +1,6 @@
 # study
 
-## Java
+## Web
 * JHipster - scaffolding Tool (Spring + JPA + Angular + Bootstrap) : http://www.popit.kr/jhipster-scaffold-spring-boot-and-angualrjs/
 
 ## Sharp
