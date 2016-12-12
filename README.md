@@ -8,6 +8,7 @@
 
 ## Install
 * mysql on ubuntu : https://github.com/westside/study/blob/master/mysql_ubuntu.md
+* redis : https://www.digitalocean.com/community/tutorials/how-to-configure-a-redis-cluster-on-ubuntu-14-04
 
 
 ## Packaing 
