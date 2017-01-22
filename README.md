@@ -17,3 +17,6 @@
   * tips : http://stackoverflow.com/questions/7071133/how-to-bundle-a-jre-with-launch4j
 * EXE - installer 
   * innot setup http://www.jrsoftware.org/isdl.php
+  
+## Unity
+* Failed to spawn server object  --> UNET(NetworkManager not registered that prefab)
