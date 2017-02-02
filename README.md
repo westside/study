@@ -20,3 +20,4 @@
   
 ## Unity
 * Failed to spawn server object  --> UNET(NetworkManager not registered that prefab)
+* unity gameobject scene id ---> Please check scene id on network identity object
