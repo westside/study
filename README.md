@@ -8,6 +8,7 @@
 
 ## Sharp
 * Upload nuget package : https://github.com/westside/study/blob/master/nuget.md
+* Auto update library : https://github.com/synhershko/NAppUpdate
 
 ## Install
 * mysql on ubuntu : https://github.com/westside/study/blob/master/mysql_ubuntu.md
