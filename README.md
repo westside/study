@@ -4,6 +4,7 @@
 * JHipster - scaffolding Tool (Spring + JPA + Angular + Bootstrap) : http://www.popit.kr/jhipster-scaffold-spring-boot-and-angualrjs/
 * how to decide HTTP status code : http://racksburg.com/choosing-an-http-status-code/
 * Spring boot Hot reload on intellij : http://jojoldu.tistory.com/48
+* Spring initializr : https://start.spring.io/
 
 ## Sharp
 * Upload nuget package : https://github.com/westside/study/blob/master/nuget.md
