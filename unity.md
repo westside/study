@@ -11,3 +11,22 @@
 
 * fireball 같은 느낌 
    * https://www.youtube.com/watch?v=RO8hQC-_zBo
+   
+   
+## assets
+
+* 무기 https://www.assetstore.unity3d.com/kr/#!/content/19365
+* 자동차 https://www.assetstore.unity3d.com/kr/#!/content/51082
+* 캐쥬얼 게임 https://www.assetstore.unity3d.com/kr/#!/content/43863
+* 자동차 https://www.assetstore.unity3d.com/kr/#!/content/34404
+* 탁구 받기 https://www.assetstore.unity3d.com/kr/#!/content/47894
+* 비행기 https://www.assetstore.unity3d.com/kr/#!/content/50239 
+* 캐쥬얼 게임 https://www.assetstore.unity3d.com/kr/#!/content/31172
+* 비행기 https://www.assetstore.unity3d.com/kr/#!/content/44792
+* 레이싱 https://www.assetstore.unity3d.com/kr/#!/content/22615
+* infinite runner https://www.assetstore.unity3d.com/kr/#!/content/51328
+* VR 컨텐츠 (심플) https://www.assetstore.unity3d.com/kr/#!/content/64131
+
+
+## Panorimic View concept
+* http://talesfromtherift.com/use-a-360-degree-panorama-as-a-skybox/
