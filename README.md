@@ -28,3 +28,6 @@
 * Tilt Brush : VR brush tool by google : https://www.tiltbrush.com/ https://github.com/googlevr/tilt-brush-toolkit
 * EditorVR : https://github.com/Unity-Technologies/EditorVR
 * Vive with body tracking : https://github.com/JamesBear/vive_ik_demo
+
+## GIT
+* git lfs : https://devlog.github.io/git-lfs/2015/12/09/git-lfs.html
