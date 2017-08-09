@@ -32,3 +32,7 @@
 
 ## GIT
 * git lfs : https://devlog.github.io/git-lfs/2015/12/09/git-lfs.html
+
+## Deep Learning Materials
+* https://classroom.udacity.com/courses/ud730
+* https://www.coursera.org/specializations/deep-learning
