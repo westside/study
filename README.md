@@ -36,3 +36,4 @@
 ## Deep Learning Materials
 * https://classroom.udacity.com/courses/ud730
 * https://www.coursera.org/specializations/deep-learning
+* UCL lectures http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.htmla  https://www.youtube.com/watch?v=2pWv7GOvuf0
