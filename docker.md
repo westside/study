@@ -19,6 +19,7 @@ docker-compose up
 ```
 
 ## setup references
+* https://spring.io/guides/gs/spring-boot-docker/
 * https://github.com/docker/compose
 * https://github.com/bhagwat/springboot-nginx-redis-docker
 * http://geekyplatypus.com/tag/docker-compose/
