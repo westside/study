@@ -6,13 +6,13 @@ docker-compose stop
 ```
 
 
-## quick 
-* error 
+## Tips
+
+* error fix  (https://github.com/docker/compose/issues/1113)
 ```
 ERROR: for nginx  No such image: sha256:f01ad174a05de6d4c88f3953502782cd43b51715b9817d252f2150d4520ee69d\
 ```
 
-* fix (https://github.com/docker/compose/issues/1113)
 ```
 docker-compose rm
 docker-compose up
