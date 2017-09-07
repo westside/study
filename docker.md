@@ -18,6 +18,17 @@ docker-compose rm
 docker-compose up
 ```
 
+
+## docker command
+
+```
+docker build -t tag-name .
+docker run -p 80:80 -t tag-name
+docker stop $(docker ps -a -q)
+docker rm $(docker ps -a -q)
+```
+
+
 ## setup references
 * https://spring.io/guides/gs/spring-boot-docker/
 * https://github.com/docker/compose
