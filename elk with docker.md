@@ -15,6 +15,7 @@
 
 pom.xml
 
+### Collecting log fron spring boot app to logstash pipeline
 ```xml
 <dependency>
 	<groupId>net.logstash.logback</groupId>
