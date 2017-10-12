@@ -1,3 +1,14 @@
+## what is docker? and how?
+* https://www.docker.com/what-docker
+* 도커 무작정 따라하기 : https://www.slideshare.net/pyrasis/docker-fordummies-44424016
+* Docker로 서버 개발 편하게 하기 https://www.slideshare.net/jhgod/docker-62527504
+
+## docker in AWS 
+* ECR : https://aws.amazon.com/ecr/
+* ECS : https://aws.amazon.com/ecs/
+
+
+
 ## docker compose
 ```
 docker-compose up
