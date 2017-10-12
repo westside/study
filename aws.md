@@ -1,3 +1,10 @@
+### CloudFront, S3 (HTTPS with my own domain)
+
+* SNI Issue - https://timnash.co.uk/building-cdn-ssl-cloudfront-certificates/
+* Cetificate on in US-E region
+* Redirect Option
+
+
 ### install script (docker, docker compose, code-deploy agent) 
 
 * code deploy agent 
