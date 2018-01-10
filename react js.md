@@ -19,3 +19,49 @@
 ## Material
 * React JS : https://blog.andrewray.me/reactjs-for-stupid-people/
 * Flux : https://blog.andrewray.me/flux-for-stupid-people/
+
+
+## mine
+* simple es6 review 
+  * http://alexband.tistory.com/37
+* use redux!
+* possible component pattern 
+```
+const MyComponent = React.createClass({
+  render: function() {
+    return <div className={this.props.className}/>;
+  }
+});
+```
+
+```
+class MyComponent extends React.Component {
+  render() {
+    return <div className={this.props.className}/>;
+  }
+}
+```
+
+```
+const MyComponent = props => (
+  <div className={props.className}/>
+);
+```
+
+```
+const Todo = ({ onClick, completed, text }) => (
+  <li
+    onClick={onClick}
+    style={{
+      textDecoration: completed ? 'line-through' : 'none'
+    }}
+  >
+    {text}
+  </li>
+)
+```
+
+
+* container for reduct and component for independent to redux 
+   * https://github.com/reactjs/redux/tree/master/examples/todos
+   * https://www.zerocho.com/category/React/post/57e1428c11a9b10015e803aa
