@@ -1,3 +1,14 @@
+## Websocekt Library
+* websocket sharp with UWP : 
+    * https://github.com/green-coder/unity3d-ddp-client/blob/dev/unity-project/Assets/Moulin/DDP/websocket/WebSocketUWP.cs
+
+## Json Library
+* JSON NET - based on Newton Json  https://assetstore.unity.com/packages/tools/input-management/json-net-for-unity-11347
+    * ISSUE : https://stackoverflow.com/questions/31069962/newtonsoft-json-jsonserializationexception-unable-to-find-constructor-to-use-fo
+
+## Windows MR example 
+   * https://github.com/Microsoft/MixedRealityToolkit-Unity
+
 ## Effect관련 Tutorial
 * riffle effect : https://github.com/keijiro/RippleEffect
 * wave effect 
