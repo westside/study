@@ -1,3 +1,7 @@
+## Unity with android native 
+* https://github.com/Real-Serious-Games/Unity-Android-Plugin-Example
+* BLE sample https://www.programcreek.com/java-api-examples/?code=rlatkdgus500/UnityBluetoothPlugin/UnityBluetoothPlugin-master/Assets/Scripts/Bluetooth/AndroidJavaFile/BluetoothPlugin.java#
+
 ## Websocekt Library
 * websocket sharp with UWP : 
     * https://github.com/green-coder/unity3d-ddp-client/blob/dev/unity-project/Assets/Moulin/DDP/websocket/WebSocketUWP.cs
