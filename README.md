@@ -5,6 +5,8 @@
 * how to decide HTTP status code : http://racksburg.com/choosing-an-http-status-code/
 * Spring boot Hot reload on intellij : http://jojoldu.tistory.com/48
 * Spring initializr : https://start.spring.io/
+* Docker : https://github.com/westside/study/blob/master/docker.md
+* amazon aws : https://github.com/westside/study/blob/master/aws.md
 
 ## Sharp
 * Upload nuget package : https://github.com/westside/study/blob/master/nuget.md
