@@ -8,6 +8,12 @@
 * web rtc : https://github.com/srtucker22/glipchat
 * webrtc : https://react.rocks/tag/WebRTC
 * webrtc file share : https://react.rocks/example/filepizza
+* redux tutorial (good) : http://www.thegreatcodeadventure.com/react-redux-tutorial-part-vi-the-edit-feature/
+* updating with single object : https://forum.freecodecamp.org/t/reactjs-using-setstate-to-update-a-single-property-on-an-object/146772
+
+
+## Tips 
+* change size of element simply : https://github.com/Semantic-Org/Semantic-UI-React/issues/2435
 
 
 ## Example
@@ -19,6 +25,7 @@
 ## Material
 * React JS : https://blog.andrewray.me/reactjs-for-stupid-people/
 * Flux : https://blog.andrewray.me/flux-for-stupid-people/
+* semantic ui react : https://react.semantic-ui.com/introduction
 
 
 ## mine
