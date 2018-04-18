@@ -4,6 +4,8 @@
 * http://www.telecom.tuc.gr/~nikos/BSS_Nikos.html
 * http://www.ece.mcmaster.ca/~reilly/BSS.html
 
+* https://github.com/sigsep/sigsep-mus-2018
+
 * music source seperation : https://github.com/andabi/music-source-separation
 * Deep Convolutional Neural Networks for Musical Source Separation https://github.com/MTG/DeepConvSep
 
@@ -36,3 +38,8 @@
 
 
 * convert from tensor flow model to other language : protocolbuffer : https://www.quora.com/Should-I-build-direct-model-deep-learning-in-C-with-TensorFlow-keras-or-convert-the-model-trained-in-Python-to-C
+
+### Dataset
+* http://medleydb.weebly.com
+* MUSDB18 dataset : http://sisec.inria.fr/2018-professionally-produced-music-recordings/ https://sigsep.github.io/musdb
+
