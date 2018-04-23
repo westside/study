@@ -39,6 +39,9 @@
 
 * convert from tensor flow model to other language : protocolbuffer : https://www.quora.com/Should-I-build-direct-model-deep-learning-in-C-with-TensorFlow-keras-or-convert-the-model-trained-in-Python-to-C
 
+### reviews 
+* PR-082 Introduction to Speech Separation https://www.youtube.com/watch?v=OgNSFKeHy8k&feature=youtu.be
+
 ### Dataset
 * http://medleydb.weebly.com
 * MUSDB18 dataset : http://sisec.inria.fr/2018-professionally-produced-music-recordings/ https://sigsep.github.io/musdb
