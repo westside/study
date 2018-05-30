@@ -2,6 +2,10 @@
 * https://github.com/Real-Serious-Games/Unity-Android-Plugin-Example
 * BLE sample https://www.programcreek.com/java-api-examples/?code=rlatkdgus500/UnityBluetoothPlugin/UnityBluetoothPlugin-master/Assets/Scripts/Bluetooth/AndroidJavaFile/BluetoothPlugin.java#
 
+* c++ in windows? https://github.com/wm4n/unity-cpp-lib
+* c++ in windows and android https://github.com/Meach/UnitySimpleNativeLibrary
+
+
 ## Websocekt Library
 * Good Tutorial!!! https://channel9.msdn.com/Blogs/2p-start/Combining-Windows-10-features-with-Unity-games-in-your-own-plugin
 * websocket sharp with UWP : 
