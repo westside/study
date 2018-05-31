@@ -11,10 +11,11 @@
 * unity tutorial https://docs.unity3d.com/Manual/AndroidNativePlugins.html
 * tutorial codelabs https://codelabs.developers.google.com/codelabs/android-studio-cmake/#2
 * tutorial on android dev https://developer.android.com/studio/projects/gradle-external-native-builds
+
 * unity android c (korean) 
-      * https://m.blog.naver.com/PostView.nhn?blogId=callsonda&logNo=220934040935&proxyReferer=https%3A%2F%2Fwww.google.co.kr%2F
-      * http://duzi077.tistory.com/134
-      * https://developer.android.com/studio/projects/add-native-code?hl=ko#download-ndk
+    * https://m.blog.naver.com/PostView.nhn?blogId=callsonda&logNo=220934040935&proxyReferer=https%3A%2F%2Fwww.google.co.kr%2F
+    * http://duzi077.tistory.com/134
+    * https://developer.android.com/studio/projects/add-native-code?hl=ko#download-ndk
 
 * android cmake https://github.com/taka-no-me/android-cmake
 
