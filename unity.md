@@ -5,6 +5,19 @@
 * c++ in windows? https://github.com/wm4n/unity-cpp-lib
 * c++ in windows and android https://github.com/Meach/UnitySimpleNativeLibrary
 
+* android ndk https://github.com/googlesamples/android-ndk/tree/master-ndkbuild
+* android aar sample with so https://github.com/forexample/android-aar-simple
+* Difference between static and shared libraries?  https://stackoverflow.com/questions/2649334/difference-between-static-and-shared-libraries
+* unity tutorial https://docs.unity3d.com/Manual/AndroidNativePlugins.html
+* tutorial codelabs https://codelabs.developers.google.com/codelabs/android-studio-cmake/#2
+* tutorial on android dev https://developer.android.com/studio/projects/gradle-external-native-builds
+* unity android c (korean) 
+      * https://m.blog.naver.com/PostView.nhn?blogId=callsonda&logNo=220934040935&proxyReferer=https%3A%2F%2Fwww.google.co.kr%2F
+      * http://duzi077.tistory.com/134
+      * https://developer.android.com/studio/projects/add-native-code?hl=ko#download-ndk
+
+* android cmake https://github.com/taka-no-me/android-cmake
+
 
 ## Websocekt Library
 * Good Tutorial!!! https://channel9.msdn.com/Blogs/2p-start/Combining-Windows-10-features-with-Unity-games-in-your-own-plugin
