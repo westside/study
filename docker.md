@@ -3,6 +3,9 @@
 * 도커 무작정 따라하기 : https://www.slideshare.net/pyrasis/docker-fordummies-44424016
 * Docker로 서버 개발 편하게 하기 https://www.slideshare.net/jhgod/docker-62527504
 
+## install docker in AMI
+* https://gist.github.com/benfogel/041e3c4b8b856cdcdfd8d9d5aa0a7f73
+
 ## docker in AWS 
 * ECR : https://aws.amazon.com/ecr/
 * ECS : https://aws.amazon.com/ecs/
