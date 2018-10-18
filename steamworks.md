@@ -10,4 +10,14 @@
 * download steamworks sdk (to upload) : https://partner.steamgames.com/downloads/steamworks_sdk_142.zip
 * https://partner.steamgames.com/doc/sdk/uploading
 * video tutorial: https://www.youtube.com/watch?v=SoNH-v6aU9Q
+
+* run sdk\tools\ContentBuilder\builder\steamcmd.exe
+```
+login userid
+run_app_build_http ..\scripts\app_build_966420.vdf
+quit
+
+```
+* or use bat file sdk\tools\ContentBuilder\run_build.bat
+* be sure to check appId and depoId
    
