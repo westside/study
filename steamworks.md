@@ -7,6 +7,7 @@
 * can upload zip file (less than 256MB) through steamworks page 
 * How to move to th steam works page
 ![image](https://github.com/westside/study/blob/master/images/steamworks-1.PNG)
+* steamworks sdk (to upload) : https://partner.steamgames.com/downloads/steamworks_sdk_142.zip
 * https://partner.steamgames.com/doc/sdk/uploading
 * video tutorial: https://www.youtube.com/watch?v=SoNH-v6aU9Q
    
