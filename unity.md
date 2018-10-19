@@ -64,3 +64,9 @@
 
 ## Panorimic View concept
 * http://talesfromtherift.com/use-a-360-degree-panorama-as-a-skybox/
+
+## Unity editor 
+* how to use with generic list : https://answers.unity.com/questions/682932/using-generic-list-with-serializedproperty-inspect.html
+* sample : https://gist.github.com/rutcreate/d550aa1ae4052e0a0b37
+* guideline: https://www.linkedin.com/pulse/8-secrets-building-custom-unity-editors-charlie-silver/
+
