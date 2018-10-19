@@ -61,6 +61,9 @@
 * infinite runner https://www.assetstore.unity3d.com/kr/#!/content/51328
 * VR 컨텐츠 (심플) https://www.assetstore.unity3d.com/kr/#!/content/64131
 
+## Visual Studio setting in Unity 5.3
+* https://docs.microsoft.com/en-us/visualstudio/cross-platform/using-visual-studio-tools-for-unity?view=vs-2017
+
 
 ## Panorimic View concept
 * http://talesfromtherift.com/use-a-360-degree-panorama-as-a-skybox/
