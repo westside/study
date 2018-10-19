@@ -1,3 +1,8 @@
+## steam P2P with UNET 
+* https://www.reddit.com/r/Unity3D/comments/7uvimi/how_to_use_unet_hlapi_with_steam_p2p_example/
+* https://blog.spacewavesoftware.com/gamedev/2017-10-28-unity-unet-hlapi-and-steam-p2p-networking/
+* https://github.com/rempelj/unet-steamworks
+
 ## Publish my app
 * partner link : https://partner.steamgames.com/home (need to sign up)
 * Add other users to our application : https://partner.steamgames.com/doc/gettingstarted/managing_users
