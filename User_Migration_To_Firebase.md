@@ -31,7 +31,7 @@ try {
   * 개발자 툴을 이용해도 됨 : https://developers.facebook.com/tools/explorer/
 * 내경우는 email만 필요함 https://developers.facebook.com/docs/graph-api/reference/v2.6/user
 ```
-https://graph.facebook.com/v3.2/{user_id}?access_token={access_token}
+https://graph.facebook.com/v3.2/{user_id}?me?fields=id,name,email&access_token={access_token}
 ```
 
 
