@@ -1,12 +1,12 @@
-## How to migrate user data from the external app(spring boot) to the firebase auth
-### through Firebase CLI 
-* It's possible through Firebase CLI auth:import by using batch importing (auth:import)
+## 다른앱 auth 정보를 firebase auth로 마이그레이션 하기
+### Firebase CLI 
+* Firebase CLI의 auth:import를 쓰면 됨  (auth:import)
 * https://github.com/firebase/firebase-tools
 
-### throguth code 
+### 코드로도 가능 
 * https://firebase.google.com/docs/auth/admin/import-users
+* 내 경우에는 (BCRYPT)를 사용하여 해싱하여 아래 코드를 사용
 
-### Im my case (BCRYPT)
 ```
 try {
   List<ImportUserRecord> users = Collections.singletonList(ImportUserRecord.builder()
