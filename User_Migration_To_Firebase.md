@@ -26,7 +26,9 @@ try {
 ```
 
 ### facebook 유저 migartion
-* access token 획득후 요청 https://graph.facebook.com/oauth/access_token
+* access token 획득후 요청 
+  * https://graph.facebook.com/oauth/access_token 
+  * 개발자 툴을 이용해도 됨 : https://developers.facebook.com/tools/explorer/
 * 내경우는 email만 필요함 https://developers.facebook.com/docs/graph-api/reference/v2.6/user
 ```
 https://graph.facebook.com/v3.2/{user_id}?access_token={access_token}
