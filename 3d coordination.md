@@ -31,6 +31,15 @@ Matrix X Vertex = TransformedVertex
 * 쿼터니언이 계산하기 쉽다
 * 즉 내부적으론 쿼터니언으로 쓰고 외부에는 오일러로 쓸수 있게 하면 된다. 
 
+### 참조 문서
+* https://www.codeproject.com/Articles/1171122/How-to-Get-Raw-Positional-Data-from-HTC-Vive
+* http://www.flipcode.com/archives/Frustum_Culling.shtml
+* https://en.wikipedia.org/wiki/3D_projection#Perspective_projection
+* https://www.reddit.com/r/opengl/comments/42o3xw/how_to_check_if_vertex_is_visible_for_user/
+* https://www.khronos.org/opengl/wiki/Vertex_Transformation
+* https://learnopengl.com/Getting-started/Coordinate-Systems
+
+
 
 ## 참조
 * http://www.opengl-tutorial.org/beginners-tutorials/tutorial-3-matrices/
