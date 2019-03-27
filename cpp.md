@@ -9,6 +9,9 @@
   * Mac OS X: .a
   * Linux: .a
   
+* about visibility: http://gcc.gnu.org/wiki/Visibility
+* generate shared file: http://gernotklingler.com/blog/creating-using-shared-libraries-different-compilers-different-operating-systems/
+  
 ## CPP LIBS
 * https://en.cppreference.com/w/cpp/links/libs
 * websocket: https://github.com/zaphoyd/websocketpp
@@ -53,6 +56,11 @@ endif()
 * Object creation example: https://tansanc.tistory.com/526
 * user lib file: managed wrapper만드는 방법: http://tom-shelton.net/index.php/2008/12/11/creating-a-managed-wrapper-for-a-lib-file/
 
+
+### TROUBLE SHOOTING
+* NMAKE: fatal error u1073: Dont know how to make (WIN)
+   * https://stackoverflow.com/questions/1941443/cmake-linking-against-shared-library-on-windows-error-about-not-finding-lib-fi
+   * when there is no dllexport
 
 
 ### REF
