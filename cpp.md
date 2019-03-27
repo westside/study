@@ -11,6 +11,7 @@
   
 ## CPP LIBS
 * https://en.cppreference.com/w/cpp/links/libs
+* websocket: https://github.com/zaphoyd/websocketpp
 
 ### CMAKE 
 * https://cmake.org/cmake-tutorial/
