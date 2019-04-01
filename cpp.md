@@ -18,6 +18,7 @@
 
 ### CMAKE 
 * https://cmake.org/cmake-tutorial/
+* Examples : https://github.com/ttroy50/cmake-examples
 * Start Point: https://cgold.readthedocs.io/en/latest/overview.html
 * Good toturial: https://tuannguyen68.gitbooks.io/learning-cmake-a-beginner-s-guide/content/chap1/chap1.html
 * tutorial from clion: https://www.jetbrains.com/help/clion/quick-cmake-tutorial.html
