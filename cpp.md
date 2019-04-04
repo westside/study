@@ -1,3 +1,7 @@
+### Compiler 
+* (LLVM)[http://kyejusung.com/2015/11/llvm%EC%9D%B4%EB%9E%80-clang-%EB%B9%84%ED%8A%B8%EC%BD%94%EB%93%9C-%ED%8F%AC%ED%95%A8/]
+* GCC VS LLVM : GPL BSD차이.. 
+
 ### STATIC VS SHARED
 * Shared Library File Extensions:
   * Windows: .dll
