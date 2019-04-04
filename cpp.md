@@ -47,6 +47,14 @@ endif()
 
 ```
 
+### CMAKE for UWP
+* [MS cmake](https://github.com/Microsoft/CMake) : https://stackoverflow.com/questions/31857315/how-can-i-use-cmake-to-generate-windows-10-universal-project
+* Or existring cpp to UWP
+   * https://docs.microsoft.com/en-us/cpp/porting/how-to-use-existing-cpp-code-in-a-universal-windows-platform-app?view=vs-2019
+   * [use windows rt component](https://stackoverflow.com/questions/33489924/can-you-use-c-dlls-in-c-sharp-code-in-a-uwp)
+   
+   
+
 
 ### IL2CPP
 * https://blogs.unity3d.com/kr/2015/09/22/kr-csharp-compile-il2cpp/
