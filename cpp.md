@@ -68,7 +68,7 @@ endif()
 ### CPP to CSharp
 * Object creation example: https://tansanc.tistory.com/526
 * user lib file: managed wrapper만드는 방법: http://tom-shelton.net/index.php/2008/12/11/creating-a-managed-wrapper-for-a-lib-file/
-
+* pinvoke https://www.mono-project.com/docs/advanced/pinvoke/
 
 ### TROUBLE SHOOTING
 * NMAKE: fatal error u1073: Dont know how to make (WIN)
