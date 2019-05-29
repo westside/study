@@ -63,3 +63,5 @@
 * https://docs.microsoft.com/en-us/windows-hardware/test/hlk/getstarted/windows-hlk-getting-started
 
 
+## WINDBG 사용법 
+* https://www.youtube.com/watch?v=2jM5obr3Shc
