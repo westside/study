@@ -39,3 +39,27 @@
 
 * https://woounnan.tistory.com/1
 * https://seolis.tistory.com/entry/%EC%9C%88%EB%8F%84%EC%9A%B0%EC%A6%88-%EB%94%94%EB%B0%94%EC%9D%B4%EC%8A%A4-%EB%93%9C%EB%9D%BC%EC%9D%B4%EB%B2%84-%EA%B0%9C%EB%B0%9C-%EB%B0%A9%EB%B2%95-%ED%8E%8C
+
+
+## WHQL 인증  
+* 튜토리얼 링크: https://www.youtube.com/watch?v=3dIp_-adDQ4
+* VeriSign인증서 필요 (EV인증서 - 확장유효성검사용)
+* 대행
+   * https://crosscert.com/
+   * https://www.certkorea.co.kr/
+* Extended Validation (EV) for Microsoft® 
+  * https://www.websecurity.symantec.com/code-signing
+  * 연에 대략 700불정도
+  * 업로드할 때 프로그램이 필요: https://knowledge.digicert.com/generalinformation/INFO1982.html
+  
+* windows7 용으로 인증서를 받는게 나음 (보통은 호환성이 있기 때문에)   
+* WHCK 는 Window 7, 8에 대한 인증
+* WHLK는 Windows 10에 대한 인증에 해당  
+  
+1. 윈도우 대시보드 가입 
+2. 등록 
+  * https://partner.microsoft.com/ko-KR/dashboard/registration/hardware
+  
+* https://docs.microsoft.com/en-us/windows-hardware/test/hlk/getstarted/windows-hlk-getting-started
+
+
