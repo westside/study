@@ -23,6 +23,9 @@ Use texture atlasing [video guide]
 ### Google's Seurat 
 * 코드 : https://github.com/googlevr/seurat
 * 캡쳐 볼륨이랑 같이쓰면!! https://www.youtube.com/watch?v=FTI_79f02Lg
+* seurat-pipeline-msvc2017-x64.exe 빌드파일은 https://github.com/ddiakopoulos/seurat/releases
+* unity plugin: https://github.com/googlevr/seurat-unity-plugin
+
 ### texture atlasing
 * 이건 여러개 텍스쳐 묶어서 드로콜 줄이는거
 
