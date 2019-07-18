@@ -1,3 +1,35 @@
+## z-fighting (textture flicking in android)
+* https://www.unity3dtips.com/unity-z-fighting-solutions/
+
+
+## Profiling 관련 
+```
+Don’t make photorealistic games
+Avoid using post-processing [guide]
+Adjust [Unity specific] project settings
+Toggle GPU instancing on materials
+Combine your meshes [suggested tool]
+Consider using Google Seurat [video guide, binaries for Seurat]
+Use Amplify Imposters tool [suggested tool]
+Use static lightning [video guide]
+Set up occlusion culling [video guide]
+Be ready to remove detail to stay performant
+Use More Effective Coroutines tool (if your project uses a lot of coroutines) [suggested tool]
+Profile often [video guide]
+Start learning Unity’s C# job system [video guide]
+Use texture atlasing [video guide]
+```
+
+### Google's Seurat 
+* 코드 : https://github.com/googlevr/seurat
+* 캡쳐 볼륨이랑 같이쓰면!! https://www.youtube.com/watch?v=FTI_79f02Lg
+### texture atlasing
+* 이건 여러개 텍스쳐 묶어서 드로콜 줄이는거
+
+
+### 레퍼런스
+* https://www.roadtovr.com/vr-game-optimization-for-oculus-quest-mobile-hardware/
+
 ## Unity with android native 
 * https://github.com/Real-Serious-Games/Unity-Android-Plugin-Example
 * BLE sample https://www.programcreek.com/java-api-examples/?code=rlatkdgus500/UnityBluetoothPlugin/UnityBluetoothPlugin-master/Assets/Scripts/Bluetooth/AndroidJavaFile/BluetoothPlugin.java#
