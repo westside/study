@@ -26,6 +26,11 @@ Use texture atlasing [video guide]
 * seurat-pipeline-msvc2017-x64.exe 빌드파일은 https://github.com/ddiakopoulos/seurat/releases
 * unity plugin: https://github.com/googlevr/seurat-unity-plugin
 
+
+```
+./seurat-pipeline-msvc2017-x64.exe -input_path=manifest.json -output_path=D:\path\test -triangle_count=10000
+```
+
 ### texture atlasing
 * 이건 여러개 텍스쳐 묶어서 드로콜 줄이는거
 
