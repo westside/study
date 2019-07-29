@@ -16,3 +16,13 @@
 * java audio processing: https://github.com/JorenSix/TarsosDSP
 * https://github.com/gilpanal/FFTSpectralAnalyzer
 
+
+## Android Visualizer 
+* WaveInApp : https://github.com/Cleveroad/WaveInApp
+* android-audio-visualizer : https://github.com/GautamChibde/android-audio-visualizer
+* audio-visualizer-android : https://github.com/gauravk95/audio-visualizer-android
+
+## MediaPlayer with decoder 
+* https://github.com/drcarter/AudioStreamPlayer/tree/master/AudioStreamPlayer
+* 관련 링크: https://drcarter.tistory.com/162
+
