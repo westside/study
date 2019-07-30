@@ -25,4 +25,7 @@
 ## MediaPlayer with decoder 
 * https://github.com/drcarter/AudioStreamPlayer/tree/master/AudioStreamPlayer
 * 관련 링크: https://drcarter.tistory.com/162
+* https://github.com/Cookizz/AudioTrackMp3Player
+* MediaExtractor: https://developer.android.com/reference/android/media/MediaExtractor
+
 
