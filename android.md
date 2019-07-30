@@ -36,3 +36,16 @@
 * MediaExtractor: https://developer.android.com/reference/android/media/MediaExtractor
 
 
+## Android Media API관련 : 오디오 처리
+### [MediaCodec](https://developer.android.com/reference/android/media/MediaCodec)
+![image](https://user-images.githubusercontent.com/1837913/62116040-77039a80-b2f4-11e9-85ad-7ed501bcac73.png)
+* 코덱은 인풋과 아웃풋이 있고, 인풋에 MediaExtractor를, 아웃풋을 AudioTrack과 연결 시키면 된다.
+* Surface는 비디오 포맷에서 사용
+
+### [MediaExtractor](https://developer.android.com/reference/android/media/MediaExtractor)
+
+
+
+
+
+
