@@ -24,7 +24,7 @@
 
 ### Visualizer 한계점
 * fft bin size 1024가 맥스임 (s6, s7에서 테스트) 
-* galaxy s6기준으로 0.1마다 한번씩 데이터가 들어옴 (Visualize이외의 프로세싱으로 쓰기에는 불충분)
+* galaxy s6기준으로 0.1 마다 한번씩 데이터가 들어옴 (Visualize이외의 프로세싱으로 쓰기에는 불충분)
 
 ## MediaPlayer with decoder 
 * https://github.com/drcarter/AudioStreamPlayer/tree/master/AudioStreamPlayer
