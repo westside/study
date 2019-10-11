@@ -3,6 +3,7 @@
 
 ### 걍 http로 전송하기 (C#)
 * https://gist.github.com/0liver/11229128
+* 파라미터 정리: https://developers.google.com/analytics/devguides/collection/protocol/v1/parameters
 
 
 
