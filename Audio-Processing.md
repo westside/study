@@ -77,3 +77,9 @@
                       
 ```
 * https://social.msdn.microsoft.com/Forums/vstudio/ko-KR/55d42f3c-9998-4609-a8fc-714b068c7a58/compute-mfcc-in-c?forum=csharpgeneral
+
+
+
+### Envelope Detection
+* https://www.dsprelated.com/showarticle/938.php
+
