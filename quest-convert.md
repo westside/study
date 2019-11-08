@@ -12,6 +12,11 @@
 * 꼭 필요한거 빼고는 light baking해라 
 
 
+### 그외의 모바일 프로파일링 
+* https://developer.oculus.com/documentation/unity/latest/concepts/unity-perf/
+* https://unity3d.com/how-to/optimize-mobile-VR-games
+
+
 ### REF
 * https://uploadvr.com/quest-optimization-share/
 * 밉맵: https://ko.wikipedia.org/wiki/%EB%B0%89%EB%A7%B5
