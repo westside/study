@@ -36,3 +36,9 @@
    * vray(https://www.fxguide.com/quicktakes/v-ray-in-ue4/) - vray is rendering tool
    * forward rendering is better in VR than deferred rendering 
    
+   
+   
+
+### 공부 
+* pawn : https://docs.unrealengine.com/en-US/Gameplay/Framework/Pawn/index.html 
+
