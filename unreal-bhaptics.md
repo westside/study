@@ -40,3 +40,11 @@ ERROR: Unable to compile source files.
 
 
 
+### from 4.23부터는 include Engine이렇게 하는게 아니고 쪼개서 인클루드를 하게 되어 있음 
+* 아래 참조: https://github.com/bhaptics/TactUnrealEngine4/commit/c68da35b8013208dec02ad5c08756b038c948e23
+
+```
+#include "Components/StaticMeshComponent.h"
+#include "Materials/MaterialInstanceDynamic.h"
+```
+
