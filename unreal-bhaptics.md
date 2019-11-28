@@ -15,6 +15,7 @@ Epic Games\UE_4.23\Engine\Extras\AndroidWorks\Win64\CodeWorksforAndroid-1R7u1-wi
 
 ### 4.21에서 빌드될걸 4.23 에서 사용할 때 
 * 비쥬얼 스튜디오에서 빌드를 다시 해야함 
+* Build/ 랑 Intermidiate/  지우자.. !! 
 
 ```
 LogPlayLevel: Error:     C:/Program Files/Epic Games/UE_4.23/Engine/Source/Runtime/CoreUObject/Public\UObject/UObjectBaseUtility.h(483,14) 
@@ -36,4 +37,6 @@ Discovering modules, targets and source code for project...
 While compiling C:\Users\westside\Documents\Unreal Projects\BuildTest\Intermediate\Build\BuildRules\BuildTestModuleRules.dll:
 c:\Users\westside\Documents\Unreal Projects\BuildTest\Intermediate\Source\BuildTest.Build.cs(3,14) : error CS0101: '<???? ???ӽ????̽?>' ???ӽ????̽??? ?̹? 'BuildTest'?? ???? ???ǰ? ???? ?ֽ??ϴ?.
 ERROR: Unable to compile source files.
-```
+
+
+
