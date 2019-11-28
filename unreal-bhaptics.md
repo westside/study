@@ -41,6 +41,8 @@ c:\Users\westside\Documents\Unreal Projects\BuildTest\Intermediate\Source\BuildT
 ERROR: Unable to compile source files.
 ```
 
+*  알고보니 MarketPlace/Plugins 랑 Project의 Plugins랑 같은게 있는데, Project Plugins를 바꿔야하는데 엉뚱한걸 바꿔서 몰랐음 ㅠ
+
 * 리빌드할때는 프로젝트만 리빌드 하면 됨
 ![image](https://user-images.githubusercontent.com/1837913/69769679-2a0fd200-11c9-11ea-9811-f912234d6df4.png)
 
