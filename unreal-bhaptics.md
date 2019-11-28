@@ -44,12 +44,13 @@ ERROR: Unable to compile source files.
 *  알고보니 MarketPlace/Plugins 랑 Project의 Plugins랑 같은게 있는데, Project Plugins를 바꿔야하는데 엉뚱한걸 바꿔서 몰랐음 ㅠ
 
 * 리빌드할때는 프로젝트만 리빌드 하면 됨
+
 ![image](https://user-images.githubusercontent.com/1837913/69769679-2a0fd200-11c9-11ea-9811-f912234d6df4.png)
 
 
 
 
-### from 4.23부터는 include Engine이렇게 하는게 아니고 쪼개서 인클루드를 하게 되어 있음 
+### UE 4.23부터는 include Engine이렇게 하는게 아니고 쪼개서 인클루드를 하게 되어 있음 
 * 아래 참조: https://github.com/bhaptics/TactUnrealEngine4/commit/c68da35b8013208dec02ad5c08756b038c948e23
 
 ```
