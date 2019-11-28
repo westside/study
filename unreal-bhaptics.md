@@ -21,3 +21,10 @@ LogPlayLevel: Error:     C:/Program Files/Epic Games/UE_4.23/Engine/Source/Runti
 LogPlayLevel: Error:     C:/Program Files/Epic Games/UE_4.23/Engine/Source/Runtime/CoreUObject/Public\UObject/UObjectBaseUtility.h(483,15)
 
 ```
+
+### C++ 프로젝트로 바꾸려면 
+* 프로젝트에 C++  추가 
+
+![image](https://user-images.githubusercontent.com/1837913/69768822-8a047980-11c5-11ea-85eb-5569f2942a68.png)
+
+* uproject 우클릭 -> generate visual studio files
