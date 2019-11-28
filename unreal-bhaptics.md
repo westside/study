@@ -28,3 +28,12 @@ LogPlayLevel: Error:     C:/Program Files/Epic Games/UE_4.23/Engine/Source/Runti
 ![image](https://user-images.githubusercontent.com/1837913/69768822-8a047980-11c5-11ea-85eb-5569f2942a68.png)
 
 * uproject 우클릭 -> generate visual studio files
+  * 아래와 같은 에러 발생 
+
+```
+Running C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/DotNET/UnrealBuildTool.exe  -projectfiles -project="C:/Users/westside/Documents/Unreal Projects/BuildTest/BuildTest.uproject" -game -rocket -progress -log="C:\Users\westside\Documents\Unreal Projects\BuildTest/Saved/Logs/UnrealVersionSelector-2019.11.28-10.00.27.log"
+Discovering modules, targets and source code for project...
+While compiling C:\Users\westside\Documents\Unreal Projects\BuildTest\Intermediate\Build\BuildRules\BuildTestModuleRules.dll:
+c:\Users\westside\Documents\Unreal Projects\BuildTest\Intermediate\Source\BuildTest.Build.cs(3,14) : error CS0101: '<???? ???ӽ????̽?>' ???ӽ????̽??? ?̹? 'BuildTest'?? ???? ???ǰ? ???? ?ֽ??ϴ?.
+ERROR: Unable to compile source files.
+```
