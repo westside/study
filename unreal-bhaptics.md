@@ -1,5 +1,12 @@
 ### 플러그인 
 
+### LNK 2019 
+* https://dawnarc.com/2018/10/ue4lnk2019-unresolved-external-symbol-getprivatestaticclass/ 내경우엔 이거 PrivateStaticClass에서 에러가 남
+* 기본적으로 구현체가 없을 때 나는 경우가 많은데 UE에서는 자기가 구현체를 새로 만들다보니 뭐지 싶은 에러가 발생하는 듯 https://vaert.tistory.com/5
+
+
+
+
 ### Setting up Android 
 * Android 환경 설정할땐 CodeWorks 프로그램 이용해서 설치하는게 편한듯 아래 위치에 있음
 ```
