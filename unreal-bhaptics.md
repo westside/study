@@ -76,3 +76,11 @@ ERROR: Unable to compile source files.
 
 
 
+
+### Open Level할때 에러 
+* 해당 레벨을 설정에 추가 해야 함 https://answers.unrealengine.com/questions/667710/why-my-level-cant-be-opened-on-android.html
+
+### 모바일 디폴트 조이스틱 끄기 혹은 바꾸기
+* https://forums.unrealengine.com/development-discussion/android-development/103685-change-touch-interface-at-runtime
+
+
