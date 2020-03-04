@@ -84,3 +84,23 @@ ERROR: Unable to compile source files.
 * https://forums.unrealengine.com/development-discussion/android-development/103685-change-touch-interface-at-runtime
 
 
+
+### Android에서 크래시
+* 아직 원인을 못찾음 UI위젯 관련한건데..  이미지를 작은것으로 바꾸니 없어짐...ㅠㅠ 4.22 
+
+```
+2019-12-26 08:59:42.116 3846-4006/? E/InputDispatcher: channel '2c15ab5 com.bhaptics.SampleProject4_22/com.epicgames.ue4.GameActivity (server)' ~ Channel is unrecoverably broken and will be disposed!
+2019-12-26 08:59:42.171 4147-4158/? E/BtGatt.ContextMap: remove() - removed: 14
+2019-12-26 08:59:42.171 4147-4175/? E/BtGatt.ContextMap: Context not found for ID 14
+2019-12-26 08:59:42.172 3846-3880/? E/WindowManager: RemoteException occurs on reporting focusChanged, w=Window{2c15ab5 u0 com.bhaptics.SampleProject4_22/com.epicgames.ue4.GameActivity EXITING}
+    android.os.DeadObjectException
+        at android.os.BinderProxy.transactNative(Native Method)
+        at android.os.BinderProxy.transact(Binder.java:1145)
+        at android.view.IWindow$Stub$Proxy.windowFocusChanged(IWindow.java:500)
+        at com.android.server.wm.WindowState.reportFocusChangedSerialized(WindowState.java:3920)
+        at com.android.server.wm.WindowManagerService$H.handleMessage(WindowManagerService.java:5456)
+        at android.os.Handler.dispatchMessage(Handler.java:106)
+        at android.os.Looper.loop(Looper.java:214)
+        at android.os.HandlerThread.run(HandlerThread.java:65)
+        at com.android.server.ServiceThread.run(ServiceThread.java:44)
+```
