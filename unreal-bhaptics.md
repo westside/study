@@ -106,6 +106,6 @@ ERROR: Unable to compile source files.
 ```
 
 
-### Android deploy error : Attempt to construct staged filesystem reference from absolute path 걍 지운다 폴더를
+### Android deploy error : Attempt to construct staged filesystem reference from absolute path 걍 지운다 UE4Game 폴더를
 
 https://forums.unrealengine.com/development-discussion/android-development/1566545-error-system-argumentexception-attempt-to-construct-staged-filesystem-reference-from-absolute-path
