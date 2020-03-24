@@ -14,3 +14,7 @@
 
 
 
+### Google sheets에서 쓰려면 
+* https://developers.google.com/analytics/solutions/google-analytics-spreadsheet-add-on
+
+
