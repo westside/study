@@ -16,5 +16,8 @@
 
 ### Google sheets에서 쓰려면 
 * https://developers.google.com/analytics/solutions/google-analytics-spreadsheet-add-on
+* field 관련 레퍼런스: https://ga-dev-tools.appspot.com/account-explorer/
+* 예제: https://stackoverflow.com/questions/47148777/querying-google-analytics-api-for-30-day-active-users
+
 
 
