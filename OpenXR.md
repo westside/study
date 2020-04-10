@@ -30,4 +30,6 @@ https://youtu.be/QckZyZyvlsM?t=667
 ![image](https://user-images.githubusercontent.com/1837913/78955286-c8b62300-7b19-11ea-88ae-841a5affbf1d.png)
 
 
+* 살펴볼만한 example: https://github.com/matzman666/OpenVR-AdvancedSettings
+
 
