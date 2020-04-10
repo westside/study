@@ -19,6 +19,15 @@ https://youtu.be/QckZyZyvlsM?t=667
 
 
 ### OpenVR: Input handling방식을 구현해놓음 
-* 
+* 관련 문서: https://github.com/ValveSoftware/openvr/wiki/Input-Profiles
+
+* SteamVR앱에서 steamapps\common\SteamVR\resources\config 
+![image](https://user-images.githubusercontent.com/1837913/78971162-ea2d0400-7b45-11ea-95c2-d0184a36fec8.png)
+
+
+
 
 ![image](https://user-images.githubusercontent.com/1837913/78955286-c8b62300-7b19-11ea-88ae-841a5affbf1d.png)
+
+
+
