@@ -77,6 +77,10 @@ https://github.com/matzman666/OpenVR-AdvancedSettings
 ![image](https://user-images.githubusercontent.com/1837913/79091560-b857af80-7d88-11ea-87ff-d52d0cee8433.png)
 
 
+#### Oculus에서 사용하려면.. 
+* https://steamcommunity.com/sharedfiles/filedetails/?id=1590630273  근데 안되던데 ㅠ 
+
+
 #### 데모 
 * https://github.com/westside/openvr_sample
 
