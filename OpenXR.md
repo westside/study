@@ -1,6 +1,17 @@
-### OpenXR은 현재의 fragmentation을 해결하기 위한 표준 API
-* https://www.khronos.org/openxr/
-* Source: https://github.com/KhronosGroup/OpenXR-SDK
+### OpenXR
+현재의 VR/AR/MR의 fragmentation을 해결하기 위한 표준 API
+#### Fragmentation 해결
+![image](https://user-images.githubusercontent.com/1837913/79086655-cf41d600-7d77-11ea-82e6-c28a66a79c6a.png)
+
+
+
+
+#### 참여 회사 
+![image](https://user-images.githubusercontent.com/1837913/79086563-7bcf8800-7d77-11ea-9a3a-ccc1052672e8.png)
+
+#### 링크
+* OpenXR홈페이지 https://www.khronos.org/openxr/
+* 소스코드: https://github.com/KhronosGroup/OpenXR-SDK
 
 
 
