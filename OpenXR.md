@@ -67,6 +67,9 @@ https://github.com/ValveSoftware/openvr/commit/60eb187801956ad277f1cae6680e3a410
 
 ![image](https://user-images.githubusercontent.com/1837913/78955286-c8b62300-7b19-11ea-88ae-841a5affbf1d.png)
 
+* steam vr input in unreal: https://docs.unrealengine.com/en-US/Platforms/VR/SteamVR/HowTo/SteamVRInput/index.html
+
+
 
 #### 살펴볼만한 example: OpenVr-Advanced Setting 
 https://github.com/matzman666/OpenVR-AdvancedSettings
@@ -77,7 +80,7 @@ https://github.com/matzman666/OpenVR-AdvancedSettings
 ![image](https://user-images.githubusercontent.com/1837913/79091560-b857af80-7d88-11ea-87ff-d52d0cee8433.png)
 
 
-#### Oculus에서 사용하려면.. 
+#### 이슈 Oculus에서 사용하려면....
 * https://steamcommunity.com/sharedfiles/filedetails/?id=1590630273  근데 안되던데 ㅠ 
 
 
