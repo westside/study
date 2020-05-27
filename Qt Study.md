@@ -14,10 +14,14 @@
 
 
 ## UI Framework 및 유용한 라이브러리 찾아내기 
-### UI 라이브러리 
+### UI 라이브러리? 
 ### 빈 관리 라이브러리 
 
 
 ## 기타 
 * 라이브러리 추가: https://saengjja.tistory.com/256
+
+### 라이선스 정책 관련 어떻게? 
+### QT Quick (QML)
+* https://doc.qt.io/qt-5/qtdoc-tutorials-alarms-example.html
 
