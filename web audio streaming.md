@@ -1,3 +1,8 @@
+* web audio tutorial
+
+https://www.html5rocks.com/en/tutorials/webaudio/intro/
+
+
 * pcm data를 wav로 변경하는 코드 
 
 https://github.com/pdeschen/pcm.js/
