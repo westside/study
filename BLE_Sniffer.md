@@ -10,3 +10,7 @@
    
 * 간단하게필요한건: sniffer: 1.0.1, driver(시리얼통신용), wireshark 1.12.1   
 
+
+
+## Win as beacon
+* https://github.com/huysentruitw/win-beacon
