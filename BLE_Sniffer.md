@@ -13,4 +13,10 @@
 
 
 ## Win as beacon
-* https://github.com/huysentruitw/win-beacon
+* 소스코드: https://github.com/huysentruitw/win-beacon
+
+## 브로드캐스팅
+* nrf 예제: https://github.com/NordicPlayground/nRF51-multi-role-conn-observer-advertiser
+* 데이터 포맷: https://www.silabs.com/community/wireless/bluetooth/knowledge-base.entry.html/2017/02/10/bluetooth_advertisin-hGsf
+
+* 기본 개념 정리 https://stackoverflow.com/questions/53342122/is-it-possible-to-send-data-with-ble-broadcast-mode
