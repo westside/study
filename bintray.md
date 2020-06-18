@@ -12,5 +12,7 @@ https://docs.gradle.org/current/userguide/publishing_maven.html
 
 https://jojoldu.tistory.com/161
 
+https://inthecheesefactory.com/blog/how-to-upload-library-to-jcenter-maven-central-as-dependency/en
+
 그냥 업로드
 * https://www.jfrog.com/confluence/display/BT/Manually+Uploading+Files+to+a+Version
