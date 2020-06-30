@@ -1,3 +1,8 @@
+## Asset bundle 
+* 튜토리얼: https://www.youtube.com/watch?v=1zROlULebXg
+
+
+
 ## z-fighting (textture flicking in android)
 * https://www.unity3dtips.com/unity-z-fighting-solutions/
 
@@ -88,7 +93,7 @@ Use texture atlasing [video guide]
    
    
 ## assets
-
+* 맵 스트리밍: SECTR https://assetstore.unity.com/packages/tools/terrain/sectr-complete-2019-144433
 * 무기 https://www.assetstore.unity3d.com/kr/#!/content/19365
 * 자동차 https://www.assetstore.unity3d.com/kr/#!/content/51082
 * 캐쥬얼 게임 https://www.assetstore.unity3d.com/kr/#!/content/43863
