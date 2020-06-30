@@ -6,6 +6,8 @@ Terrain Streaming하는데에 쓰는 에셋
 
 * 로더 설정 :  로더는 다양하게 있음. 
 
+로더의 위치가 플레이어(카메라)위치와 맞아야 함
+
 ![image](https://user-images.githubusercontent.com/1837913/86109445-5d1f9880-baff-11ea-86cc-feacb76a4db5.png)
 
 * 섹터 설정  Split and Sectorize your terrain
