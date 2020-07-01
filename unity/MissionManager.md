@@ -1,3 +1,14 @@
+## Quest System Pro 사용하기로 결정 
+* https://github.com/devdogio/Quest-System-Pro
+
+
+
+### 이유
+* 처음에는 직접 구현하려 하였으나, 생각보다 괜찮아서 마음을 바꿈
+* Dialog시스템도 같이 있었음 
+* Quest 셋업이나 기타 필요한 제반 코드들이 잘 갖추어져 있었음 
+
+
 
 
 ## 참고 자료 
