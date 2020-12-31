@@ -6,3 +6,6 @@
 * https://www.colorzilla.com/
 
 * mac: digital color meter
+
+
+![image](https://user-images.githubusercontent.com/1837913/103390848-e1f47900-4b59-11eb-89d9-5b50e6f677a4.png)
