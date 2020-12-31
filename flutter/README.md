@@ -4,3 +4,5 @@
 * https://dribbble.com/
 
 * https://www.colorzilla.com/
+
+* mac: digital color meter
