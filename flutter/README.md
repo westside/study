@@ -15,3 +15,5 @@
 ![image](https://user-images.githubusercontent.com/1837913/103390890-1a945280-4b5a-11eb-92a5-c2f9efce7dbe.png)
 
 * provider 를 추천하는듯? 
+  * https://github.com/rrousselGit/provider
+  * InheritedWidget의 레퍼임: https://api.flutter.dev/flutter/widgets/InheritedWidget-class.html
