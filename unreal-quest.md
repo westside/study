@@ -9,3 +9,9 @@
 
 ## UE4.25부터 codeworks 버린듯. ndk버전이 낮아서 아래 링크 보고 ndk만 따로 우선 설정해서 해결 
 https://www.unrealengine.com/en-US/tech-blog/updates-to-required-setup-for-android-ndk-21-in-unreal-engine-4-25
+
+
+## Android에서 Launch로 할때 저런 에러들은 지우고 다시 깔면 해결
+```
+Attempt to construct staged filesystem reference from absolute path (/AndroidUI/setting/dark/setting_banner.uasset)
+```
