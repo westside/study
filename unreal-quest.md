@@ -12,6 +12,7 @@ https://www.unrealengine.com/en-US/tech-blog/updates-to-required-setup-for-andro
 
 
 ## Android에서 Launch로 할때 저런 에러들은 지우고 다시 깔면 해결
+* UE폴더를 지워야 함 https://answers.unrealengine.com/questions/811194/android-manifest-bug-prevents-launching-on-device.html?sort=oldest
 ```
 Attempt to construct staged filesystem reference from absolute path (/AndroidUI/setting/dark/setting_banner.uasset)
 ```
