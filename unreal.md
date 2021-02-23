@@ -36,7 +36,7 @@
    * vray(https://www.fxguide.com/quicktakes/v-ray-in-ue4/) - vray is rendering tool
    * forward rendering is better in VR than deferred rendering 
    
-   
+### JNI- Andorid - https://github.com/Hydrafox/JarTuto
    
 
 ### 공부 
