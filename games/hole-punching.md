@@ -28,3 +28,8 @@
 
 
 ### 생각 하다보니 이미 webrtc에서 다 구현되어 있는거구나....
+* https://github.com/radioman/WebRtc.NET
+* STUN / TURN
+* https://alnova2.tistory.com/1110
+* STUN(Session Traversal Utilities for NAT):  STUN은 Public 관점에서 종단에 Access 가능한 IP:Port를 발견하는 작업인 것이다.
+* TURN (릴레이 서버)
