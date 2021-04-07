@@ -7,6 +7,8 @@
 * python - https://github.com/dwoz/python-nat-hole-punching
 * c# 버전: 개념을 잘 설명해준듯: https://github.com/jasonpang/tcp-holepunching
 * 오왕 한글 자료: https://www.sysnet.pe.kr/2/0/1226
+* https://gamedevforever.com/47
+
 
 ### Autonomous NAT Traversal
 * pwnat https://samy.pl/pwnat/
@@ -23,3 +25,6 @@
 
 ### JS IP scanning
 * https://github.com/samyk/webscan
+
+
+### 생각 하다보니 이미 webrtc에서 다 구현되어 있는거구나....
