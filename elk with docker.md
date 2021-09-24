@@ -40,5 +40,49 @@ logback-spring.xml
 * 사용자 파일 생성 방법: 정치인 이름이나 고유 명사 http://sooyeol86.blogspot.com/2019/12/elasticsearch-nori.html
 * 
 
+```
+PUT test2
+{
+  "settings": {
+    "analysis": {
+      "tokenizer": {
+        "nori_user_dict": {
+          "type": "nori_tokenizer",
+          "decompound_mode": "mixed",
+          "user_dictionary": "user_dic.txt"
+        }
+      },
+      "analyzer": {
+        "korean_analyzer": {
+          "filter": [
+            "pos_filter_speech", "nori_readingform",
+            "lowercase", "synonym", "remove_duplicates"
+          ],
+          "tokenizer": "nori_user_dict"
+        }
+      },
+      "filter": {
+        "synonym" : {
+          "type" : "synonym_graph",
+          "synonyms_path" : "synonyms.txt"
+        },
+        "pos_filter_speech": {
+          "type": "nori_part_of_speech",
+          "stoptags": [
+            "E", "J", "SC", "SE", "SF", "SP", "SSC", "SSO", "SY", "VCN", "VCP",
+            "VSV", "VX", "XPN", "XSA", "XSN", "XSV"
+          ]
+        }
+      }
+    }
+  }
+}
+```
 
+### 명령어
+https://www.elastic.co/guide/en/elasticsearch/reference/current/docs-index_.html
+```
+
+
+```
 
