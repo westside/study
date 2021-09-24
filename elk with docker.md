@@ -33,3 +33,12 @@ logback-spring.xml
 </appender>
 ```
 
+
+### nori를 포함하여 올리기
+* http://sooyeol86.blogspot.com/2019/12/elasticsearch-with-nori-feat-docker.html
+* DEV Console: http://localhost:5601/app/dev_tools#/console
+* 사용자 파일 생성 방법: 정치인 이름이나 고유 명사 http://sooyeol86.blogspot.com/2019/12/elasticsearch-nori.html
+* 
+
+
+
