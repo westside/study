@@ -42,3 +42,23 @@
 ### 공부 
 * pawn : https://docs.unrealengine.com/en-US/Gameplay/Framework/Pawn/index.html 
 
+
+### Pluguin 관련 정리
+* UPARAM
+```
+UCompositingElementOutput* CreateNewOutputPass(FName PassName, UPARAM(meta = (AllowAbstract = "false"))TSubclassOf<UCompositingElementOutput> OutputType);
+```
+
+* BlueprintNativeCodeGenUtils.cpp
+```
+UNiagaraScriptConversionContextInput* CreateScriptInputEnum
+```
+
+
+### UserDefinedEnum
+
+
+
+## 레퍼런스
+* UI관련 문서 정리가 잘되어 있는 곳 https://benui.ca/unreal/uproperty/
+* 가이드 북: https://unreal.gg-labs.com/wiki-archives/macros-and-data-types/string-conversions
